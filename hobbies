@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Hobbies</title>
+</head>
+<body>
+
+    <h1>My Hobbies</h1>
+
+    <ul>
+        <li><strong>Gaming:</strong> Enjoying strategic multiplayer games and online team gaming.</li>
+        <li><strong>Football:</strong> Playing football with friends and staying active through sports.</li>
+        <li><strong>Technology & Tech Trends:</strong> Following the latest developments in software engineering, AI, and consumer tech.</li>
+    </ul>
+
+    <hr>
+
+    <p><a href="index.html">Back to Main Page</a></p>
+
+    <footer>
+        <p>&copy; 2026 Muhammed Abu Shahin. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

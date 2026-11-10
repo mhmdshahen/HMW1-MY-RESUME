@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+</head>
+<body>
+
+    <h1>Contact Me</h1>
+
+    <p>Feel free to reach out to me via the following details:</p>
+
+    <ul>
+        <li><strong>Full Name:</strong> Muhammed Abu Shahin</li>
+        <li><strong>Phone Number:</strong> 0505141706</li>
+        <li><strong>Email:</strong> <a href="mailto:abushamu@post.bgu.ac.il">abushamu@post.bgu.ac.il</a></li>
+        <li><strong>Institution:</strong> Ben-Gurion University of the Negev, Be'er Sheva, Israel</li>
+        <li><strong>Hometown:</strong> Tamra, North District, Israel</li>
+    </ul>
+
+    <hr>
+
+    <p><a href="index.html">Back to Main Page</a></p>
+
+    <footer>
+        <p>&copy; 2026 Muhammed Abu Shahin. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

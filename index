@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+
+    
+    <img src="images/profile.jpg" alt="Profile Picture of Muhammed Abu Shahin" width="180" style="border-radius: 10px;">
+
+    
+    <h1>Muhammed Abu Shahin</h1>
+    <h2>Senior Information Systems Engineering Student | Ben-Gurion University of the Negev</h2>
+
+    <hr>
+
+    
+    <section>
+        <h2>General Information</h2>
+        <p>
+            I am a senior Information Systems Engineering undergraduate student at Ben-Gurion University of the Negev. 
+            Born in Israel on February 19, 2003, I am passionate about technology, software development, data analytics, 
+            and designing efficient system architectures to solve complex technical problems.
+        </p>
+    </section>
+
+    
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li>
+                <strong>B.Sc. in Information Systems Engineering</strong> – Ben-Gurion University of the Negev (2022 – Present)
+                <p>Final-year student. Coursework covers software development, database design, data structures, algorithms, systems analysis, and machine learning.</p>
+            </li>
+            <li>
+                <strong>High School Diploma</strong> – Elbayan High School, Tamra (2018 – 2021)
+                <p>Graduated with full matriculation focusing on Computer Science and Mathematics (5 units).</p>
+            </li>
+        </ul>
+    </section>
+
+    
+    <section>
+        <h2>Academic Projects & Coursework</h2>
+        <ol>
+            <li>
+                <strong>Web Application & Database System Project</strong> – Ben-Gurion University
+                <ul>
+                    <li>Designed and implemented full-stack web platforms using relational databases and web technologies.</li>
+                    <li>Modeled system data structures and optimized query performance.</li>
+                </ul>
+            </li>
+            <li>
+                <strong>Systems Analysis & Data Engineering Workshops</strong>
+                <ul>
+                    <li>Analyzed business requirements, created UML models, and implemented algorithmic solutions.</li>
+                </ul>
+            </li>
+        </ol>
+    </section>
+
+    
+    <section>
+        <h2>Skills & Competencies</h2>
+        <ul>
+            <li><strong>Programming & Technologies:</strong> Python, Java, SQL, HTML5, CSS3, JavaScript</li>
+            <li><strong>Tools & Systems:</strong> Git, GitHub, VS Code, Database Management (Relational SQL), Data Analysis</li>
+            <li><strong>Languages:</strong> Arabic (Native), Hebrew (Fluent), English (Professional Working Proficiency)</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    
+    <nav>
+        <h3>Additional Links:</h3>
+        <ul>
+            <li><a href="hobbies.html">My Hobbies</a></li>
+            <li><a href="contact me.html">Contact Me</a></li>
+        </ul>
+    </nav>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Muhammed Abu Shahin. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
